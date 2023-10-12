@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Arkadyuti Chaudhuri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkachau05&label=Profile%20views&color=0e75b6&style=flat" alt="arkachau05" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <h1 align="left">Hello ,This is Arkadyuti chaudhuri.</h1>
 
 ###
@@ -83,12 +75,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Arkachau05/Arkachau05/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkachau05&show_icons=true&locale=en&layout=compact" alt="arkachau05" /></p>
 <!---
 Arkachau05/Arkachau05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
