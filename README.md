@@ -1,9 +1,5 @@
 <h1 align="left">Hello ,This is Arkadyuti chaudhuri.</h1>
-
-###
-
 <br clear="both">
-
 <h4 align="left">Learning how to upgrade myself.</h4>
 
 ###
