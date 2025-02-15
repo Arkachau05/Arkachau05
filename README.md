@@ -1,4 +1,4 @@
-<h2 align="center">Hi 🤖! My name is Arkadyuti Chaudhuri and I'm a Developer-Software Engineer--Student, from India</h2>
+<h2 align="center">Hi 🤖! My name is Arkadyuti Chaudhuri and I'm a Developer-Software Engineer, from India</h2>
 
 ###
 
